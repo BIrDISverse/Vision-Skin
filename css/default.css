@@ -1,8 +1,8 @@
 :root {
-    --main-color: #696FFF;
-    --menu-button-color: #696FFF;
-    --sub-color: #A8ACFF;
-    --light-sub-color: #7E83FF;
+    --main-color: #000000;
+    --menu-button-color: #000000;
+    --sub-color: #666666;
+    --light-sub-color: #333333;
     --border-color: #e1e8ed; /* 여기서 부터는 수정 안 해도 됩니다. */
     --sub-border-color: #ccc;
     --body-color: #f3f3f3;
